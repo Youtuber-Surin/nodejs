@@ -3,5 +3,5 @@ function test() {
 }
 
 function team() {
-    return "hello";
+    return "test";
 }
